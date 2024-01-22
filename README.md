@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/stan8783" target="blank"><img src="https://img.shields.io/twitter/follow/stan8783?logo=twitter&style=for-the-badge" alt="stan8783" /></a> </p>
 
-- 🔭 I’m currently working on [The Wild Oasis](https://github.com/khalid-09/The-Wild-Oasis)
+- 🔭 I’m currently working on [Pocket Flow](https://github.com/khalid-09/PocketFlow)
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
