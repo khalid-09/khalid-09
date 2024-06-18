@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Ink-Spire](https://github.com/khalid-09/inkSpire/)
 
-- 🌱 I’m currently learning **GraphQL
+- 🌱 I’m currently learning **GraphQL**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
