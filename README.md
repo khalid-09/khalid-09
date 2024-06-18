@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/stan8783" target="blank"><img src="https://img.shields.io/twitter/follow/stan8783?logo=twitter&style=for-the-badge" alt="stan8783" /></a> </p>
 
-- 🔭 I’m currently working on [Pocket Flow](https://github.com/khalid-09/PocketFlow)
+- 🔭 I’m currently working on [Ink-Spire](https://github.com/khalid-09/inkSpire/)
 
-- 🌱 I’m currently learning **Next.js, TypeScript**
+- 🌱 I’m currently learning **GraphQL
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
