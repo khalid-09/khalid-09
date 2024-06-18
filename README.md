@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://developercraft.netlify.app/home](https://developercraft.netlify.app/home)
 
-- 📝 I regularly write articles on [Next.js, React, TypeScript](Next.js, React, TypeScript)
+- 📝 I regularly write articles on Next.js, React, TypeScript
 
 - 💬 Ask me about **React, Next.js, Prisma, Auth**
 
