@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 👨‍💻 All of my projects are available at [https://developercraft.netlify.app/home](https://developercraft.netlify.app/home)
+- 👨‍💻 All of my projects are available [here](https://port-khalid-codes.vercel.app/)
 
 - 📝 I regularly write articles on Next.js, React, TypeScript
 
